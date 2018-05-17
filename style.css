@@ -51,3 +51,23 @@ footer {
   background-color: gray;
 }
 
+.title {
+  .font-family: fantasy;
+}
+
+.heading-sentence {
+  font-size: 18px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul li{
+  margin: 0;
+  padding-right: 20px;
+  float: left;
+}
+
